@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerViewAppFIX</string>
+    <string name="hp" />
+    <string name="nim" />
+    <string name="heroes_name" />
+    <string name="object_received" />
+</resources>
